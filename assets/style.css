@@ -49,7 +49,6 @@ nav a {
 	padding-block: 100px;
 	position: relative;
 }
-
 .picture.left::before {
 	content: ' ';
 	background-color: #E5975F;
