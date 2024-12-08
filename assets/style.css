@@ -21,7 +21,10 @@ header {
 header .name {
 	font-size: 26px;
 }
-
+.name a{
+	text-decoration: none;
+	color: black;
+}
 nav ul {
 	display: flex;
 	list-style-type: none;
